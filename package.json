@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-firebaseui-sample",
+  "version": "1.0.0",
+  "description": "My shining Nuxt.js project",
+  "author": "kimura.m",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^7.5.0",
+    "firebaseui": "^4.3.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1"
+  }
+}
